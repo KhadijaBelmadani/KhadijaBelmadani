@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/how-to-code-in-java.jpg)(https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif))]
+[![MasterHead](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/how-to-code-in-java.jpg)]
 <h1 align="center">Hi 👋, I'm Belmadani Khadija</h1>
 <h3 align="center">A passionate software developer from MOROCCO</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
