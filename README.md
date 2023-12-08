@@ -1,10 +1,10 @@
-[![MasterHead](https://www.google.com/search?q=animated+coding+gift&tbm=isch&ved=2ahUKEwjR7sOy9f-CAxXzpCcCHVLFAcsQ2-cCegQIABAA&oq=animated+coding+gift&gs_lcp=CgNpbWcQAzIECCMQJzoICAAQCBAeEBM6BwgAEIAEEBNQ9gpY6BFguxNoAHAAeACAAXyIAcoEkgEDMC41mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=QBZzZdHOO_PJnsEP0oqH2Aw&bih=559&biw=1280&rlz=1C1GCEA_enMA1085MA1085#imgrc=BwXJS1ZbagjzHM)]
+![MasterHead](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)
 <h1 align="center">Hi 👋, I'm Belmadani Khadija</h1>
 <h3 align="center">A passionate software developer from MOROCCO</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belmadanikhadija&label=Profile%20views&color=0e75b6&style=flat" alt="belmadanikhadija" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belmadanikhadija" alt="belmadanikhadija" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadijabelmadani" alt="khadijabelmadani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
